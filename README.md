@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Jwellery_Shop](https://mesurajan.github.io/Jwellery_Shop/)
 
-- 👨‍💻 All of my projects are available at [https://mesurajan.github.io/Surajan_Shrestha/](https://mesurajan.github.io/Surajan_Shrestha/)
+- 👨‍💻 All of my projects are available at https://mesurajan.github.io/Portfolio/
 
 - 📫 How to reach me **surajansth2061@gmail.com**
 
