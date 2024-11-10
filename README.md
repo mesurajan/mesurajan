@@ -9,8 +9,7 @@
 
 - 🔭 I’m currently working on [Jwellery_Shop](https://mesurajan.github.io/Jwellery_Shop/)
 
-- 👨‍💻 All of my projects are available at https://mesurajan.github.io/Portfolio/
-
+- 👨‍💻 You can get more details at https://surajanshrestha.vercel.app/
 - 📫 How to reach me **surajansth2061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
