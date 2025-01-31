@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/surajan shrestha" target="_blank">
+  <a href="https://www.instagram.com/surajan__shrestha/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajan shrestha" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/shrestha.surajan" target="_blank">
