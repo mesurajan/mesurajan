@@ -91,7 +91,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesurajan&show_icons=true&locale=en&layout=compact" alt="mesurajan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesurajan&show_icons=true&locale=en" alt="mesurajan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mesurajan" alt="mesurajan" /></p>
 
