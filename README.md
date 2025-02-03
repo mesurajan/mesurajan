@@ -90,6 +90,17 @@
 
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mesurajan&label=Profile%20views&color=0e75b6&style=flat" alt="mesurajan" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mesurajan&theme=highcontrast)](https://git.io/streak-stats)
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mesurajan" alt="mesurajan" />
+  </a>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesurajan&show_icons=true&locale=en&layout=compact" alt="mesurajan" /></p>
