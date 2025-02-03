@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<h1 style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Surajan+Shrestha" alt="Typing SVG" />
-</div>
+</h1>
 
 <h1 align="center">Hi 👋, I'm Surajan Shrestha</h1>
 <h3 align="center">A passionate frontend and backend developer from Nepal</h3>
