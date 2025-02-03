@@ -91,7 +91,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesurajan&layout=compact&theme=dark" alt="mesurajan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mesurajan&show_icons=true&theme=dark" alt="mesurajan" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Surajan%20Shrestha&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mesurajan&theme=dark" alt="GitHub Streak" /></a>
 
 
 
