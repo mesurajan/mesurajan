@@ -93,5 +93,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesurajan&show_icons=true&locale=en" alt="mesurajan" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=mesurajan" alt="mesurajan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mesurajan" alt="mesurajan" /></p>
+
 
