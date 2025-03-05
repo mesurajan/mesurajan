@@ -95,7 +95,7 @@
 <p><img src="https://streak-stats.demolab.com?user=mesurajan&theme=dark" alt="GitHub Streak" /></p>
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesurajan" alt="mesurajan" /></a> </p>
 
 
