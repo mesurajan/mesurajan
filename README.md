@@ -94,11 +94,6 @@
 
 <p><img src="https://streak-stats.demolab.com?user=mesurajan&theme=dark" alt="GitHub Streak" /></p>
 
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=mesurajan" alt="mesurajan's GitHub trophies" />  
-  </a>  
-</p>
 
 
 
