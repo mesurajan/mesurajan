@@ -1,5 +1,6 @@
 # 💫 About Me:
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I'm+Surajan+Shrestha%0AA+passionate+Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Surajan+Shrestha;A+Passionate+Full-Stack+Developer" alt="Typing SVG" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesurajan&label=Profile%20views&color=0e75b6&style=flat" alt="mesurajan" /> </p>
