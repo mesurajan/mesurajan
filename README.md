@@ -7,7 +7,7 @@
 
 
 <div align="right" style="margin-bottom: 1rem;">
-  <img src="https://res.cloudinary.com/dpguydliv/image/upload/v1768137520/giphy_fxm51a.gif" alt="coding" style="max-width: 100%; height: auto;" />
+  <img src="https://res.cloudinary.com/dpguydliv/image/upload/v1768137863/hero-furniture_cuzmqj.jpg" alt="coding" style="max-width: 100%; height: auto;" />
 </div>
 
 ## 🌐 Socials:
