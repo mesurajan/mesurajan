@@ -7,7 +7,7 @@
 
 
 <div align="right" style="margin-bottom: 1rem;">
-  <img src="https://res.cloudinary.com/dpguydliv/image/upload/v1768138546/giphy_1_yeryai.gif" alt="coding" style="max-width: 100%; height: auto;" />
+  <img src="https://res.cloudinary.com/dpguydliv/image/upload/v1768138546/giphy_1_yeryai.gif" alt="coding" style="max-width: 1080px; height: auto;" />
 </div>
 
 ## 🌐 Socials:
